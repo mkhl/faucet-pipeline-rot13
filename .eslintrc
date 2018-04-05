@@ -1,0 +1,6 @@
+root: true
+extends: fnd-jsx
+rules:
+  max-len:
+    - warn
+    - ignoreTrailingComments: true
